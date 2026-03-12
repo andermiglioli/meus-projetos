@@ -5,4 +5,4 @@ numero = int(input("informe um numero"))
 
 numero *= 3
 
-print
+print(numero)

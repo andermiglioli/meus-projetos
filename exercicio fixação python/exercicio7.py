@@ -1,0 +1,1 @@
+#7.Leia dois números decimais (float) e imprima a média.

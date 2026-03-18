@@ -1,0 +1,1 @@
+#Leia o salário (float) e um percentual de aumento (float) e calcule o novo salário

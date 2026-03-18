@@ -1,1 +1,0 @@
-#5.Leia dois números inteiros e imprima a soma.

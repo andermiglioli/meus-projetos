@@ -1,1 +1,0 @@
-#12.Leia 3 notas (float) e imprima a média com duas casas decimais.

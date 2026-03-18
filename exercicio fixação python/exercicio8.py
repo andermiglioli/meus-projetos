@@ -1,1 +1,0 @@
-#Leia um número como string e imprima o seu tipo antes e depois de converter para int.

@@ -1,0 +1,8 @@
+resposta = ''
+
+
+while true:
+    resposta = input("digite algo (ou "sair" para encerrar):")
+    print(f"voce digitou: {resposta}")
+    if resposta == "sair:"
+        break
